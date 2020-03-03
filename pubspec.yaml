@@ -1,0 +1,49 @@
+name: web
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: Poppins-Bold
+      fonts:
+        - asset: assets/fonts/Poppins-Bold.otf
+
+    - family: Poppins-Medium
+      fonts:
+        - asset: assets/fonts/Poppins-Medium.otf
+
+    - family: Poppins-Light
+      fonts:
+        - asset: assets/fonts/Poppins-Light.otf
+
+    - family: Poppins-ExtraLight
+      fonts:
+        - asset: assets/fonts/Poppins-ExtraLight.otf
+
+    - family: Poppins-Regular
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.otf
+
+    - family: Poppins-SemiBold
+      fonts:
+        - asset: assets/fonts/Poppins-SemiBold.otf
