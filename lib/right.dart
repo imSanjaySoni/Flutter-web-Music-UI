@@ -6,9 +6,9 @@ class Right extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: <Widget>[
-        SizedBox(
-          height: 20,
-        ),
+        // SizedBox(
+        //   height: 20,
+        // ),
         Expanded(
           flex: 1,
           child: Padding(
@@ -37,7 +37,7 @@ class Right extends StatelessWidget {
           ),
         ),
         Expanded(
-          flex: 2,
+          flex: 3,
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: <Widget>[
@@ -69,14 +69,14 @@ class Right extends StatelessWidget {
                   ),
                 ),
               ),
-              SizedBox(
-                height: 30,
-              ),
+              // SizedBox(
+              //   height: 30,
+              // ),
             ],
           ),
         ),
         Expanded(
-          flex: 4,
+          flex: 6,
           child: Row(
             children: <Widget>[
               Expanded(
