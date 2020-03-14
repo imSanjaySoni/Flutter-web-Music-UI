@@ -39,3 +39,9 @@ To serve your app from localhost in Chrome, enter the following from the top of 
 ``` bash
  flutter run -d chrome
 ```
+### Build
+Run the following command to generate a release build:
+
+```bash
+ flutter build web
+ ```
