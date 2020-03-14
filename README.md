@@ -2,7 +2,7 @@
 
 <img src="assets/images/Screenshot.png">
 
-## Set up
+## Web Set up
   Run the following commands to use the latest version of the Flutter SDK from the beta channel and enable web support:
 
 ```bash
