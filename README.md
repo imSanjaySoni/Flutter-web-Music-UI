@@ -50,7 +50,7 @@ Run the following command to generate a release build:
 ***
 
 ## Other Works
-* [Movie Rating App](../Movie-Rating-app-with-flutter-Bloc-patten)
-* [BMI Calculator](../BMI-Calculator-with-flutter)
+* [Movie Rating App](..../Movie-Rating-app-with-flutter-Bloc-patten)
+* [BMI Calculator](..../BMI-Calculator-with-flutter)
 
 
