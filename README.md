@@ -49,8 +49,6 @@ Run the following command to generate a release build:
  
 ***
 
-## Other Works
-* [Movie Rating App](../Movie-Rating-app-with-flutter-Bloc-patten)
-* [BMI Calculator](../BMI-Calculator-with-flutter)
-
-
+### Other Apps
+- [BMI Calculator](https://github.com/imSanjaySoni/BMI-Calculator-with-flutter)
+- [Music Flutter Web UI](https://github.com/imSanjaySoni/Flutter-web-Music-UI)
