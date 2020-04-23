@@ -45,3 +45,13 @@ Run the following command to generate a release build:
 ```bash
  flutter build web
  ```
+ 
+ 
+***
+
+## Other Works
+* [Movie Rating App]("github.com/imSanjaySoni/Movie-Rating-app-with-flutter-Bloc-patten")
+* [BMI Calculator]("github.com/imSanjaySoni/BMI-Calculator-with-flutter")
+
+***
+
